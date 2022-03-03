@@ -1,0 +1,4 @@
+x=('kavya','01','mpcsa')
+y=('ramya','02','mpcsb')
+z=x+y
+print(z)
